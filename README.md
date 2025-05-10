@@ -20,7 +20,7 @@ Feel free to explore the AI tools and star the repository if you find it helpful
 - **View Details:** Select "Details" on any tool card for an in-depth overview.  
 - **Visit Tool Website:** Click "Visit" to open the official site
 
-### Features of this Web App
+## Features of this Web App
 This web app includes the following features:
 
 - **Comprehensive Tool Listings**: Detailed information about each AI tool including descriptions, features, pricing, and links
@@ -30,7 +30,7 @@ This web app includes the following features:
 - **Trending Tools Section**: Discover popular and newly added AI tools
 - **Featured Tools Showcase**: Highlighting exceptional tools in various categories
 
-### User Experience
+## User Experience
 
 - **Intuitive Navigation**: Easy-to-use navigation bar with mobile-optimized menu
 - **Dynamic Search Results**: Real-time search with debounced queries for performance
@@ -38,12 +38,12 @@ This web app includes the following features:
 - **Rotating Text Showcase**: Dynamic text rotation highlighting various AI capabilities
 - **Accessibility Features**: Built with a11y best practices for inclusive usage
 
-### Built with:
+## Built with:
 
 - <a href="https://v0.dev">v0.dev</a> (web app development)
 - <a href="https://chagpt.com">ChatGPT</a> (AI-powered research & content generation)
 
-### Technical Implementation
+## Technical Implementation
 
 - **Next.js App Router**: Modern routing with server components for optimal performance
 - **Tailwind CSS**: Utility-first styling for consistent design
@@ -52,7 +52,7 @@ This web app includes the following features:
 - **Mobile-First Approach**: Designed for mobile with progressive enhancement for larger screens
 - **Component-Based Architecture**: Modular, reusable components for maintainability
 
-### Technologies Used
+## Technologies Used
 
 This web app is built using the following technologies:
 
