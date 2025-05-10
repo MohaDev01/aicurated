@@ -1,6 +1,6 @@
 [![AICurated (Social)](https://custom-icon-badges.demolab.com/badge/AICurated-1A56DB?style=social&logo=aicurated&logoColor=white)](https://aicurated.vercel.app)
 
----
+# AICurated
 
 AICurated is a curated directory of the best AI tools for 2025, designed to help individuals and businesses discover, compare, and explore AI-powered solutions across various categories.
 
