@@ -43,7 +43,7 @@ This web app includes the following features:
 - <a href="https://v0.dev">v0.dev</a> (web app development)
 - <a href="https://chagpt.com">ChatGPT</a> (AI-powered research & content generation)
 
-## Technical Implementation
+### Technical Implementation
 
 - **Next.js App Router**: Modern routing with server components for optimal performance
 - **Tailwind CSS**: Utility-first styling for consistent design
@@ -52,7 +52,7 @@ This web app includes the following features:
 - **Mobile-First Approach**: Designed for mobile with progressive enhancement for larger screens
 - **Component-Based Architecture**: Modular, reusable components for maintainability
 
-## Technologies Used
+### Technologies Used
 
 This web app is built using the following technologies:
 
